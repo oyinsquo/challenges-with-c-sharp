@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\myfirstchallenge\bin\Debug\net8.0\myfirstchallenge.exe
+C:\Users\User\Downloads\myfirstchallenge\bin\Debug\net8.0\myfirstchallenge.deps.json
+C:\Users\User\Downloads\myfirstchallenge\bin\Debug\net8.0\myfirstchallenge.runtimeconfig.json
+C:\Users\User\Downloads\myfirstchallenge\bin\Debug\net8.0\myfirstchallenge.dll
+C:\Users\User\Downloads\myfirstchallenge\bin\Debug\net8.0\myfirstchallenge.pdb
+C:\Users\User\Downloads\myfirstchallenge\obj\Debug\net8.0\myfirstchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\myfirstchallenge\obj\Debug\net8.0\myfirstchallenge.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\myfirstchallenge\obj\Debug\net8.0\myfirstchallenge.AssemblyInfo.cs
+C:\Users\User\Downloads\myfirstchallenge\obj\Debug\net8.0\myfirstchallenge.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\myfirstchallenge\obj\Debug\net8.0\myfirstchallenge.dll
+C:\Users\User\Downloads\myfirstchallenge\obj\Debug\net8.0\refint\myfirstchallenge.dll
+C:\Users\User\Downloads\myfirstchallenge\obj\Debug\net8.0\myfirstchallenge.pdb
+C:\Users\User\Downloads\myfirstchallenge\obj\Debug\net8.0\myfirstchallenge.genruntimeconfig.cache
+C:\Users\User\Downloads\myfirstchallenge\obj\Debug\net8.0\ref\myfirstchallenge.dll
